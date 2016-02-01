@@ -1,0 +1,19 @@
+#container {
+	height: 500px;
+	width: 500px;
+	margin: auto;
+}
+
+.block {
+	float: left;
+	background-color: #00ff00;
+	border: 1px solid black;
+}
+
+.row{
+	clear: both;
+}
+
+button {
+	text-align: center;
+}
